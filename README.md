@@ -1,5 +1,7 @@
 [logo]: https://i.imgur.com/Z1wL1PM.png
 
+![alt text][logo]
+
 # PET SIM 
 Heroku link: https://nameless-peak-24752.herokuapp.com
 ## ABOUT
