@@ -21,6 +21,7 @@ The other features included:
 - Shop
 - Pet hatches from egg (Click it multiple times to open)
 - Give pet accesories
+- Custom pets
 
 View full wireframing [here](https://www.figma.com/file/aEFR5LyYIqxPEubeOjC45i/Untitled?node-id=0%3A1)
 
