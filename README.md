@@ -3,7 +3,7 @@
 ![alt text][logo]
 
 # PET SIM 
-Heroku link: https://nameless-peak-24752.herokuapp.com
+Heroku link: https://nameless-peak-24752.herokuapp.com ( CURRENTLY DOWN)
 ## ABOUT
 For my last project for SEI, I wanted to create a virtual pet sim game like Tamagotchi or Nintendogs. The game requires you to feed your animal everyday or couple of hours to make sure it stays alive. 
 
